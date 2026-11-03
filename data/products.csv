@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Wireless Earbuds,Electronics,79,59.25
+2,Bluetooth Speaker,Electronics,59,44.25
+3,Smart Watch,Electronics,199,149.25
+4,USB-C Hub,Electronics,45,33.75
+5,Laptop Stand,Electronics,39,29.25
+6,Portable Charger,Electronics,35,26.25
+7,Noise-Cancel Headphones,Electronics,249,186.75
+8,Webcam HD,Electronics,69,51.75
+9,Coffee Maker,Home & Kitchen,89,57.85
+10,Air Fryer,Home & Kitchen,119,77.35
+11,Blender,Home & Kitchen,65,42.25
+12,Knife Set,Home & Kitchen,75,48.75
+13,Cookware Set,Home & Kitchen,149,96.85
+14,Desk Lamp,Home & Kitchen,29,18.85
+15,Water Bottle,Home & Kitchen,19,12.35
+16,Throw Blanket,Home & Kitchen,35,22.75
+17,Notebook Pack,Office Supplies,12,7.2
+18,Gel Pens (12),Office Supplies,9,5.4
+19,Desk Organizer,Office Supplies,24,14.4
+20,Office Chair,Office Supplies,229,137.4
+21,Whiteboard,Office Supplies,49,29.4
+22,Paper Shredder,Office Supplies,79,47.4
+23,Label Maker,Office Supplies,39,23.4
+24,Monitor Arm,Office Supplies,89,53.4
+25,Running Shoes,Apparel,95,47.5
+26,Hoodie,Apparel,45,22.5
+27,T-Shirt,Apparel,19,9.5
+28,Backpack,Apparel,59,29.5
+29,Rain Jacket,Apparel,85,42.5
+30,Baseball Cap,Apparel,22,11.0
+31,Yoga Pants,Apparel,49,24.5
+32,Wool Socks (3),Apparel,18,9.0
+33,Vitamin D3,Beauty & Health,15,6.75
+34,Face Moisturizer,Beauty & Health,28,12.6
+35,Electric Toothbrush,Beauty & Health,69,31.05
+36,Yoga Mat,Beauty & Health,32,14.4
+37,Resistance Bands,Beauty & Health,25,11.25
+38,Hair Dryer,Beauty & Health,59,26.55
+39,Sunscreen SPF50,Beauty & Health,16,7.2
+40,Protein Powder,Beauty & Health,45,20.25
